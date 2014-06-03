@@ -74,7 +74,9 @@ highlight Type                      guifg=#DA4939 ctermfg=0 gui=NONE cterm=NONE
 highlight Visual                    guibg=#5A647E ctermbg=8
 
 highlight DiffAdd                   guifg=#E6E1DC ctermfg=7 guibg=#519F50 ctermbg=71
+highlight DiffAdded                 guifg=#E6E1DC ctermfg=0 guibg=#519F50 ctermbg=71
 highlight DiffDelete                guifg=#E6E1DC ctermfg=7 guibg=#660000 ctermbg=52
+highlight DiffRemoved               guifg=#E6E1DC ctermfg=0 guibg=#660000 ctermbg=9
 highlight Special                   guifg=#DA4939 ctermfg=167
 
 highlight pythonBuiltin             guifg=#6D9CBE ctermfg=73 gui=NONE cterm=NONE
